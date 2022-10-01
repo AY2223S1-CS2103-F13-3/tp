@@ -128,6 +128,8 @@ Examples:
 * `find alex david` returns `Alex Yeoh`, `David Li`<br>
   ![result for 'find alex david'](images/findAlexDavidResult.png)
 
+### Adding a remark : `remark`
+
 ### Deleting a person : `delete`
 
 Deletes the specified person from the address book.
